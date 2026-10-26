@@ -9,13 +9,21 @@ Booking movie tickets is often slow and unreliable: long queues at box offices, 
 Features-
 For Users:
 1.Register, log in and reset or change password securely.
+
 2.Browse Now Showing and Upcoming movies with details and ratings.
+
 3.Search and filter movies by title, language, genre and rating.
+
 4.Select theatre, date and showtime.
+
 5.Interactive seat map with real-time availability and temporary seat hold.
+
 6.Apply coupons and pay online (UPI, cards, net banking).
+
 7.Instant e-ticket with QR code via email/SMS.
+
 8.View booking history, cancel bookings and get refunds.
+
 9.Rate and review movies after booking.
 
 For Admin:
